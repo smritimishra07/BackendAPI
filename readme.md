@@ -1,5 +1,13 @@
 #   Payload CMS
 
+## Documents Updates
+
+| **Version** | **Create**       | **Update**       |  
+|-------------|------------------|------------------|  
+| **0.0.1**   | 09 December 2024 | 09 December 2024 |  
+
+**IMPORTANT**: Whenever you update this document, change the update date and version.
+
 ## Environment 
 To run this project, you will need to add have
 
